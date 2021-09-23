@@ -56,6 +56,8 @@ Apache Commons Lang, a package of Java utility classes for the
 Documentation
 -------------
 
+1
+
 More information can be found on the [Apache Commons Lang homepage](https://commons.apache.org/proper/commons-lang).
 The [Javadoc](https://commons.apache.org/proper/commons-lang/apidocs) can be browsed.
 Questions related to the usage of Apache Commons Lang should be posted to the [user mailing list][ml].
